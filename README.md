@@ -17,6 +17,7 @@ The File Format:
 5  |   |   |   |
 6  |   |   |   |
 
+(watch it in your text editor, then it looks good)
 the above line would have the following Entry
   -> 0,2,2
 
@@ -30,5 +31,4 @@ Using the binary:
 -----------------
   - to use the binary output from gcc, you have to give 2 arguments
   - argument 1 -> map file (.lmp means: line map)
-                                        ^    ^ ^
   - argument 2 -> a nuuber between 0 - 3 to tell the programm where to start (optinal, default its set to 0)
